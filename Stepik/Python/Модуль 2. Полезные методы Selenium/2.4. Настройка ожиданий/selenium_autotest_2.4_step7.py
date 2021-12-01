@@ -5,7 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium import webdriver
 import time
 import math
-
+ 
 try:
   browser = webdriver.Chrome()
   link = "http://suninjuly.github.io/explicit_wait2.html"
